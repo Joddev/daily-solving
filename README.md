@@ -8,3 +8,4 @@
 - [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) ([code](./leetcode/median-of-two-sorted-arrays.kt))
 - [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) ([code](./leetcode/longest-palindromic-substring.kt))
 - [6. Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion) ([code](./leetcode/zigzag-conversion.kt))
+- [7. Reverse Integer](https://leetcode.com/problems/reverse-integer) ([code](./leetcode/reverse-integer.kt))
