@@ -1,12 +1,5 @@
 package leetcode
 
-fun main() {
-    val a = StringToInteger()
-    println(a.myAtoi("42"))
-    println(a.myAtoi("-42"))
-    println(a.myAtoi("4193 with words"))
-}
-
 class StringToInteger {
     fun myAtoi(s: String): Int {
         var beforeDigit = true
