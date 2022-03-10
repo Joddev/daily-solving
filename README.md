@@ -11,3 +11,4 @@
 - [7. Reverse Integer](https://leetcode.com/problems/reverse-integer) ([code](./leetcode/reverse-integer.kt))
 - [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi) ([code](./leetcode/string-to-integer-atoi.kt))
 - [9. Palindrome Number](https://leetcode.com/problems/palindrome-number) ([code](./leetcode/palindrome-number.kt))
+- [10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) ([code](./leetcode/regular-expression-matching.kt))
