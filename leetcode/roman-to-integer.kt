@@ -1,10 +1,5 @@
 package leetcode
 
-fun main() {
-    val a = RomanToInteger()
-    println(a.romanToInt("III"))
-}
-
 class RomanToInteger {
     fun romanToInt(s: String): Int {
         return s.foldIndexed(0) { idx, stack, cur ->
