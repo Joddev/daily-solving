@@ -17,4 +17,5 @@
 - [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer) ([code](./leetcode/roman-to-integer.kt))
 - [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) ([code](./leetcode/longest-common-prefix.kt))
 - [15. 3Sum](https://leetcode.com/problems/3sum) ([code](./leetcode/3sum.kt))
-= [16. 3Sum Closest](https://leetcode.com/problems/3sum-closest) ([code](./leetcode/3sum-closest.kt))
+- [16. 3Sum Closest](https://leetcode.com/problems/3sum-closest) ([code](./leetcode/3sum-closest.kt))
+- [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) ([code](./leetcode/letter-combinations-of-a-phone-number.kt))
