@@ -19,3 +19,4 @@
 - [15. 3Sum](https://leetcode.com/problems/3sum) ([code](./leetcode/3sum.kt))
 - [16. 3Sum Closest](https://leetcode.com/problems/3sum-closest) ([code](./leetcode/3sum-closest.kt))
 - [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) ([code](./leetcode/letter-combinations-of-a-phone-number.kt))
+- [18. 4Sum](https://leetcode.com/problems/4sum) ([code](./leetcode/4sum.kt))
