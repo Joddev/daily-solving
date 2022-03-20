@@ -1,8 +1,6 @@
 package leetcode
 
-class ListNode(var `val`: Int) {
-   var next: ListNode? = null
-}
+import leetcode.utils.ListNode
 
 class AddTwoNumbers {
     fun addTwoNumbers(l1: ListNode?, l2: ListNode?): ListNode? {

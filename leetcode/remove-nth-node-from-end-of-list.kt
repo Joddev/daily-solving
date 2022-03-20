@@ -1,8 +1,8 @@
-class RemoveNthNodeFromEndOfList {
-    class ListNode(var `val`: Int) {
-        var next: ListNode? = null
-    }
+package leetcode
 
+import leetcode.utils.ListNode
+
+class RemoveNthNodeFromEndOfList {
     class EvictingQueue(private val size: Int) {
         private var index = 0
         private var count = 0
