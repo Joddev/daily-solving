@@ -21,3 +21,4 @@
 - [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) ([code](./leetcode/letter-combinations-of-a-phone-number.kt))
 - [18. 4Sum](https://leetcode.com/problems/4sum) ([code](./leetcode/4sum.kt))
 - [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) ([code](./leetcode/remove-nth-node-from-end-of-list.kt))
+- [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) ([code](./leetcode/valid-parentheses.kt))
