@@ -23,3 +23,4 @@
 - [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) ([code](./leetcode/remove-nth-node-from-end-of-list.kt))
 - [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) ([code](./leetcode/valid-parentheses.kt))
 - [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) ([code](./leetcode/merge-two-sorted-lists.kt))
+- [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses) ([code](./leetcode/generate-parentheses.kt))
