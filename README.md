@@ -24,3 +24,4 @@
 - [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) ([code](./leetcode/valid-parentheses.kt))
 - [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) ([code](./leetcode/merge-two-sorted-lists.kt))
 - [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses) ([code](./leetcode/generate-parentheses.kt))
+- [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists) ([code](./leetcode/merge-k-sorted-lists.kt))
