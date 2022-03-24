@@ -25,3 +25,4 @@
 - [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) ([code](./leetcode/merge-two-sorted-lists.kt))
 - [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses) ([code](./leetcode/generate-parentheses.kt))
 - [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists) ([code](./leetcode/merge-k-sorted-lists.kt))
+- [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs) ([code](./leetcode/swap-nodes-in-pairs.kt))
