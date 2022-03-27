@@ -28,3 +28,4 @@
 - [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs) ([code](./leetcode/swap-nodes-in-pairs.kt))
 - [25. Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group) ([code](./leetcode/reverse-nodes-in-k-group.kt))
 - [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) ([code](./leetcode/remove-duplicates-from-sorted-array.kt))
+- [27. Remove Element](https://leetcode.com/problems/remove-element/submissions/) ([code](./leetcode/remove-element.kt))
