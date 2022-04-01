@@ -33,3 +33,4 @@
 - [29. Divide Two Integers](https://leetcode.com/problems/divide-two-integers) ([code](./leetcode/divide-two-integers.kt))
 - [30. Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) ([code](./leetcode/substring-with-concatenation-of-all-words.kt))
 - [31. Next Permutation](https://leetcode.com/problems/next-permutation) ([code](./leetcode/next-permutation.kt))
+- [32. Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses) ([code](./leetcode/longest-valid-parentheses.kt))
