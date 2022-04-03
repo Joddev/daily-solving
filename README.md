@@ -35,3 +35,4 @@
 - [31. Next Permutation](https://leetcode.com/problems/next-permutation) ([code](./leetcode/next-permutation.kt))
 - [32. Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses) ([code](./leetcode/longest-valid-parentheses.kt))
 - [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) ([code](./leetcode/search-in-rotated-sorted-array.kt))
+- [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) ([code](./leetcode/find-first-and-last-position-of-element-in-sorted-array.kt))
