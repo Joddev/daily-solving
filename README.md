@@ -38,3 +38,4 @@
 - [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) ([code](./leetcode/find-first-and-last-position-of-element-in-sorted-array.kt))
 - [35. Search Insert Position](https://leetcode.com/problems/search-insert-position) ([code](./leetcode/search-insert-position.kt))
 - [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku) ([code](./leetcode/valid-sudoku.kt))
+- [37. Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) ([code](./leetcode/sudoku-solver.kt))
