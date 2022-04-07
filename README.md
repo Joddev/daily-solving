@@ -39,3 +39,4 @@
 - [35. Search Insert Position](https://leetcode.com/problems/search-insert-position) ([code](./leetcode/search-insert-position.kt))
 - [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku) ([code](./leetcode/valid-sudoku.kt))
 - [37. Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) ([code](./leetcode/sudoku-solver.kt))
+- [38. Count and Say](https://leetcode.com/problems/count-and-say) ([code](./leetcode/count-and-say.kt))
