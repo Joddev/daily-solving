@@ -42,3 +42,4 @@
 - [38. Count and Say](https://leetcode.com/problems/count-and-say) ([code](./leetcode/count-and-say.kt))
 - [39. Combination Sum](https://leetcode.com/problems/combination-sum) ([code](./leetcode/combination-sum.kt))
 - [40. Combination Sum II](https://leetcode.com/problems/combination-sum-2) ([code](./leetcode/combination-sum-2.kt))
+- [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive) ([code](./leetcode/first-missing-positive.kt))
