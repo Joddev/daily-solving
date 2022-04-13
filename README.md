@@ -45,4 +45,5 @@
 - [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive) ([code](./leetcode/first-missing-positive.kt))
 - [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) ([code](./leetcode/trapping-rain-water.kt))
 - [43. Multiply Strings](https://leetcode.com/problems/multiply-strings/submissions/) ([code](./leetcode/multiply-strings.kt))
+- [44. Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) ([code](./leetcode/wildcard-matching.kt))
 - [45. Jump Game II](https://leetcode.com/problems/jump-game-ii/) ([code](./leetcode/jump-game-ii.kt))
