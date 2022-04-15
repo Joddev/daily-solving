@@ -48,3 +48,4 @@
 - [44. Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) ([code](./leetcode/wildcard-matching.kt))
 - [45. Jump Game II](https://leetcode.com/problems/jump-game-ii/) ([code](./leetcode/jump-game-ii.kt))
 - [46. Permutations](https://leetcode.com/problems/permutations) ([code](./leetcode/permutations.kt))
+- [47. Permutations II](https://leetcode.com/problems/permutations-ii) ([code](./leetcode/permutations-ii.kt))
