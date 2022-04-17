@@ -50,3 +50,4 @@
 - [46. Permutations](https://leetcode.com/problems/permutations) ([code](./leetcode/permutations.kt))
 - [47. Permutations II](https://leetcode.com/problems/permutations-ii) ([code](./leetcode/permutations-ii.kt))
 - [48. Rotate Image](https://leetcode.com/problems/rotate-image) ([code](./leetcode/rotate-image.kt))
+- [49. Group Anagrams](https://leetcode.com/problems/group-anagrams) ([code](./leetcode/group-anagrams.kt))
