@@ -52,3 +52,4 @@
 - [48. Rotate Image](https://leetcode.com/problems/rotate-image) ([code](./leetcode/rotate-image.kt))
 - [49. Group Anagrams](https://leetcode.com/problems/group-anagrams) ([code](./leetcode/group-anagrams.kt))
 - [50. Pow(x, n)](https://leetcode.com/problems/powx-n) ([code](./leetcode/powx-n.kt))
+- [51. N-Queens](https://leetcode.com/problems/n-queens) ([code](./leetcode/n-queens.kt))
