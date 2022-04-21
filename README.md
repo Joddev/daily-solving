@@ -54,3 +54,4 @@
 - [50. Pow(x, n)](https://leetcode.com/problems/powx-n) ([code](./leetcode/powx-n.kt))
 - [51. N-Queens](https://leetcode.com/problems/n-queens) ([code](./leetcode/n-queens.kt))
 - [52. N-Queens II](https://leetcode.com/problems/n-queens-ii/) ([code](./leetcode/n-queens-ii.kt))
+- [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray) ([code](./leetcode/maximum-subarray.kt))
