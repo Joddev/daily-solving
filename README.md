@@ -56,3 +56,4 @@
 - [52. N-Queens II](https://leetcode.com/problems/n-queens-ii/) ([code](./leetcode/n-queens-ii.kt))
 - [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray) ([code](./leetcode/maximum-subarray.kt))
 - [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix) ([code](./leetcode/spiral-matrix.kt))
+- [55. Jump Game](https://leetcode.com/problems/jump-game) ([code](./leetcode/jump-game.kt))
