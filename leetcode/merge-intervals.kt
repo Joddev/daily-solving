@@ -3,7 +3,6 @@ package leetcode
 class MergeIntervals {
     fun merge(intervals: Array<IntArray>): Array<IntArray> {
         return intervals.fold(emptyArray()) { acc, it ->
-            println(acc.joinToString("|") { it.joinToString() })
             if (acc.isEmpty()) {
                 arrayOf(it)
             } else {
