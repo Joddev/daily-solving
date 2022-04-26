@@ -59,3 +59,4 @@
 - [55. Jump Game](https://leetcode.com/problems/jump-game) ([code](./leetcode/jump-game.kt))
 - [56. Merge Intervals](https://leetcode.com/problems/merge-intervals) ([code](./leetcode/merge-intervals.kt))
 - [57. Insert Interval](https://leetcode.com/problems/insert-interval) ([code](./leetcode/insert-interval.kt))
+- [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word) ([code](./leetcode/length-of-last-word.kt))
