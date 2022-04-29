@@ -62,3 +62,4 @@
 - [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word) ([code](./leetcode/length-of-last-word.kt))
 - [59. Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii) ([code](./leetcode/spiral-matrix-ii.kt))
 - [60. Permutation Sequence](https://leetcode.com/problems/permutation-sequence) ([code](./leetcode/permutation-sequence.kt))
+- [61. Rotate List](https://leetcode.com/problems/rotate-list) ([code](./leetcode/rotate-list.kt))
