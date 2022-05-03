@@ -66,3 +66,4 @@
 - [62. Unique Paths](https://leetcode.com/problems/unique-paths) ([code](./leetcode/unique-paths.kt))
 - [63. Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) ([code](./leetcode/unique-paths-ii.kt))
 - [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) ([code](./leetcode/minimum-path-sum.kt))
+- [66. Plus One](https://leetcode.com/problems/plus-one/) ([code](./leetcode/plus-one.kt))
