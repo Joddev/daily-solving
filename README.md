@@ -68,3 +68,4 @@
 - [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) ([code](./leetcode/minimum-path-sum.kt))
 - [65. Valid Number](https://leetcode.com/problems/valid-number) ([code](./leetcode/valid-number.kt))
 - [66. Plus One](https://leetcode.com/problems/plus-one/) ([code](./leetcode/plus-one.kt))
+- [67. Add Binary](https://leetcode.com/problems/add-binary/) ([code](./leetcode/add-binary.kt))
