@@ -69,3 +69,4 @@
 - [65. Valid Number](https://leetcode.com/problems/valid-number) ([code](./leetcode/valid-number.kt))
 - [66. Plus One](https://leetcode.com/problems/plus-one/) ([code](./leetcode/plus-one.kt))
 - [67. Add Binary](https://leetcode.com/problems/add-binary/) ([code](./leetcode/add-binary.kt))
+- [68. Text Justification](https://leetcode.com/problems/text-justification/) ([code](./leetcode/text-justification.kt))
