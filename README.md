@@ -70,3 +70,4 @@
 - [66. Plus One](https://leetcode.com/problems/plus-one/) ([code](./leetcode/plus-one.kt))
 - [67. Add Binary](https://leetcode.com/problems/add-binary/) ([code](./leetcode/add-binary.kt))
 - [68. Text Justification](https://leetcode.com/problems/text-justification/) ([code](./leetcode/text-justification.kt))
+- [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/) ([code](./leetcode/sqrtx.kt))
