@@ -73,3 +73,4 @@
 - [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/) ([code](./leetcode/sqrtx.kt))
 - [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs) ([code](./leetcode/climbing-stairs.kt))
 - [71. Simplify Path](https://leetcode.com/problems/simplify-path) ([code](./leetcode/simplify-path.kt))
+- [72. Edit Distance](https://leetcode.com/problems/edit-distance) ([code](./leetcode/edit-distance.kt))
