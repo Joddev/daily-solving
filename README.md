@@ -82,3 +82,4 @@
 - [78. Subsets](https://leetcode.com/problems/subsets) ([code](./leetcode/subsets.kt))
 - [79. Word Search](https://leetcode.com/problems/word-search) ([code](./leetcode/word-search.kt))
 - [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii) ([code](./leetcode/remove-duplicates-from-sorted-array-ii.kt))
+- [81. Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii) ([code](./leetcode/search-in-rotated-sorted-array-ii.kt))
