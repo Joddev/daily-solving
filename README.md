@@ -85,3 +85,4 @@
 - [81. Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii) ([code](./leetcode/search-in-rotated-sorted-array-ii.kt))
 - [82. Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii) ([code](./leetcode/remove-duplicates-from-sorted-list-ii.kt))
 - [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list) ([code](./leetcode/remove-duplicates-from-sorted-list.kt))
+- [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) ([code](./leetcode/merge-sorted-array.kt))
