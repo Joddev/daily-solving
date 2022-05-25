@@ -87,4 +87,5 @@
 - [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list) ([code](./leetcode/remove-duplicates-from-sorted-list.kt))
 - [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram) ([code](./leetcode/largest-rectangle-in-histogram.kt))
 - [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle) ([code](./leetcode/maximal-rectangle.kt))
+- [86. Partition List](https://leetcode.com/problems/partition-list) ([code](./leetcode/partition-list.kt))
 - [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) ([code](./leetcode/merge-sorted-array.kt))
