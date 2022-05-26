@@ -88,4 +88,5 @@
 - [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram) ([code](./leetcode/largest-rectangle-in-histogram.kt))
 - [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle) ([code](./leetcode/maximal-rectangle.kt))
 - [86. Partition List](https://leetcode.com/problems/partition-list) ([code](./leetcode/partition-list.kt))
+- [87. Scramble String](https://leetcode.com/problems/scramble-string) ([code](./leetcode/scramble-string.kt))
 - [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) ([code](./leetcode/merge-sorted-array.kt))
