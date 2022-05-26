@@ -90,3 +90,4 @@
 - [86. Partition List](https://leetcode.com/problems/partition-list) ([code](./leetcode/partition-list.kt))
 - [87. Scramble String](https://leetcode.com/problems/scramble-string) ([code](./leetcode/scramble-string.kt))
 - [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) ([code](./leetcode/merge-sorted-array.kt))
+- [89. Gray Code](https://leetcode.com/problems/gray-code) ([code](./leetcode/gray-code.kt))
