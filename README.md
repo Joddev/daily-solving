@@ -94,3 +94,4 @@
 - [90. Subsets II](https://leetcode.com/problems/subsets-ii) ([code](./leetcode/subsets-ii.kt))
 - [91. Decode Ways](https://leetcode.com/problems/decode-ways) ([code](./leetcode/decode-ways.kt))
 - [92. Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii) ([code](./leetcode/reverse-linked-list-ii.kt))
+- [93. Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses) ([code](./leetcode/restore-ip-addresses.kt))
