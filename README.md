@@ -99,3 +99,4 @@
 - [95. Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/) ([code](./leetcode/unique-binary-search-trees-ii.kt))
 - [96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees) ([code](./leetcode/unique-binary-search-trees.kt))
 - [97. Interleaving String](https://leetcode.com/problems/interleaving-string/) ([code](./leetcode/interleaving-string.kt))
+- [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) ([code](./validate-binary-search-tree))
