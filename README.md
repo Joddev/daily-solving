@@ -101,3 +101,4 @@
 - [97. Interleaving String](https://leetcode.com/problems/interleaving-string/) ([code](./leetcode/interleaving-string.kt))
 - [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) ([code](./leetcode/validate-binary-search-tree))
 - [99. Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) ([code](./leetcode/recover-binary-search-tree.kt))
+- [100. Same Tree](https://leetcode.com/problems/same-tree/) ([code](./leetcode/same-tree.kt))
