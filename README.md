@@ -105,3 +105,4 @@
 - [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree) ([code](./leetcode/symmetric-tree.kt))
 - [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) ([code](./leetcode/binary-tree-level-order-traversal.kt))
 - [103. Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal) ([code](./leetcode/binary-tree-zigzag-level-order-traversal.kt))
+- [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) ([code](./leetcode/maximum-depth-of-binary-tree.kt))
