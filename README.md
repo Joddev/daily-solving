@@ -106,3 +106,4 @@
 - [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) ([code](./leetcode/binary-tree-level-order-traversal.kt))
 - [103. Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal) ([code](./leetcode/binary-tree-zigzag-level-order-traversal.kt))
 - [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) ([code](./leetcode/maximum-depth-of-binary-tree.kt))
+- [105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal) ([code](./leetcode/construct-binary-tree-from-preorder-and-inorder-traversal.kt))
