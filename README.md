@@ -111,3 +111,4 @@
 - [107. Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii) ([code](./leetcode/binary-tree-level-order-traversal-ii.kt))
 - [108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree) ([code](./leetcode/convert-sorted-array-to-binary-search-tree.kt))
 - [109. Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) ([code](./leetcode/convert-sorted-list-to-binary-search-tree.kt))
+- [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree) ([code](./leetcode/balanced-binary-tree.kt))
