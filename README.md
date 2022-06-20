@@ -114,3 +114,4 @@
 - [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree) ([code](./leetcode/balanced-binary-tree.kt))
 - [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree) ([code](./leetcode/minimum-depth-of-binary-tree.kt))
 - [112. Path Sum](https://leetcode.com/problems/path-sum) ([code](./leetcode/path-sum.kt))
+- [113. Path Sum II](https://leetcode.com/problems/path-sum-ii) ([code](./leetcode/path-sum-ii.kt))
