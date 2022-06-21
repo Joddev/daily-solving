@@ -115,3 +115,4 @@
 - [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree) ([code](./leetcode/minimum-depth-of-binary-tree.kt))
 - [112. Path Sum](https://leetcode.com/problems/path-sum) ([code](./leetcode/path-sum.kt))
 - [113. Path Sum II](https://leetcode.com/problems/path-sum-ii) ([code](./leetcode/path-sum-ii.kt))
+- [114. Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list) ([code](./leetcode/flatten-binary-tree-to-linked-list.kt))
