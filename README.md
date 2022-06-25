@@ -119,3 +119,4 @@
 - [115. Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences) ([code](./leetcode/distinct-subsequences.kt))
 - [116. Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node) ([code](./leetcode/populating-next-right-pointers-in-each-node.kt))
 - [117. Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii) ([code](./leetcode/populating-next-right-pointers-in-each-node-ii.kt))
+- [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle) ([code](./leetcode/pascals-triangle.kt))
