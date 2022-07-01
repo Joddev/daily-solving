@@ -125,3 +125,4 @@
 - [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) ([code](./leetcode/best-time-to-buy-and-sell-stock.kt))
 - [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii) ([code](./leetcode/best-time-to-buy-and-sell-stock-ii.kt))
 - [123. Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii) ([code](./leetcode/best-time-to-buy-and-sell-stock-iii.kt))
+- [124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum) ([code](./leetcode/binary-tree-maximum-path-sum.kt))
