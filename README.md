@@ -129,3 +129,4 @@
 - [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome) ([code](./leetcode/valid-palindrome.kt))
 - [126. Word Ladder II](https://leetcode.com/problems/word-ladder-ii) ([code](./leetcode/word-ladder-ii.kt))
 - [127. Word Ladder](https://leetcode.com/problems/word-ladder) ([code](./leetcode/word-ladder.kt))
+- [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence) ([code](./leetcode/longest-consecutive-sequence.kt))
